@@ -1,3 +1,3 @@
-# kundan-developer
+# kundan
 
 To create responsive website  
